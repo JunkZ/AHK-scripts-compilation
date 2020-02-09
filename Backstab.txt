@@ -1,0 +1,8 @@
+toggle=false
+Random, Ran, 110, 170
+E::toggle:=!toggle
+	while (toggle)
+	{
+		sleep, Ran
+		send, q
+	}

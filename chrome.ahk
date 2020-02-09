@@ -1,0 +1,1 @@
+2:: ControlClick, x104 y1004, ahk_class Chrome_WidgetWin_1

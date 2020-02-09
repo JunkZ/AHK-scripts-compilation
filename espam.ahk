@@ -1,0 +1,19 @@
+loop
+
+{
+
+sendinput {e}
+Random, SleepAmount, 1000, 5000
+Sleep, %SleepAmount%
+
+}
+
+return
+
+
+
+esc::
+
+exitapp
+
+return                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
